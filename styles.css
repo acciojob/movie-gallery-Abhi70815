@@ -1,15 +1,5 @@
-
-/* Your CSS Code here. */
 img{
 width:100px;
 	height:100px;
-}
-.col-sm-1{
-display:flex;
-}
-.col-sm-2{
-display:flex;
-}
-.col-sm-4{
-display:flex;
+	object-fit:cover;
 }
